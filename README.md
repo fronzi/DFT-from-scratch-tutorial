@@ -152,7 +152,7 @@ pip install numpy scipy matplotlib
 ## Running the Notebook
 
 ```bash
-jupyter notebook DFT_tutorial.ipynb
+jupyter notebook DFT_from_scratch.ipynb
 ```
 
 Run cells top-to-bottom. The SCF cell (the `scf_cycle` call) is the only slow step:
